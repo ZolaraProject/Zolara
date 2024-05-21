@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = git@github.com:ZolaraProject/back.git
+[submodule "db"]
+	path = db
+	url = git@github.com:ZolaraProject/db.git
