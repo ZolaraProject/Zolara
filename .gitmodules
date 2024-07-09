@@ -1,9 +1,12 @@
 [submodule "back"]
 	path = back
 	url = git@github.com:ZolaraProject/back.git
+	branch = main
 [submodule "db"]
 	path = db
 	url = git@github.com:ZolaraProject/db.git
+	branch = main
 [submodule "front"]
 	path = front
 	url = git@github.com:ZolaraProject/front.git
+	branch = main
